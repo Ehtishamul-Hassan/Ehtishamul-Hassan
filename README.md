@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtishamul-hassan&layout=compact&theme=dark" alt="Top Languages">
 
-I'm a developer with a background in full-stack (Java, Spring Boot, React) who is now passionately pursuing a career in **Cloud Computing and DevOps**.
+I'm a developer with a background in full-stack (Java, Spring Boot, React) and now passionately pursuing a career in **Cloud Computing and DevOps**.
 
 My journey has led me to focus on multi-cloud environments, and I am driven to build, automate, and scale resilient infrastructure. I am committed to succeeding and becoming an expert in this field.
 
