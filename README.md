@@ -34,7 +34,7 @@ My journey has led me to focus on multi-cloud environments, and I am driven to b
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/ehtishamul-hassan-6b6922276/](https://www.linkedin.com/in/ehtishamul-hassan-6b6922276/)
+* **LinkedIn:** [https://www.linkedin.com/in/ehtishamul-hassan-696972276/?originalSubdomain=in](https://www.linkedin.com/in/ehtishamul-hassan-696972276/?originalSubdomain=in)
 * **Email:** [asif282hassan@gmail.com](mailto:asif282hassan@gmail.com) ---
 
 <p align="center">
